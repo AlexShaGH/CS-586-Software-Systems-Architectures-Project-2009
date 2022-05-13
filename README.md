@@ -1,1 +1,3 @@
-# CS-586-Software-Systems-Architectures-Project-2009
+# CS 586 - Software Systems Architectures Project - 2009
+
+The executable is a Win32 console application. It does not require any specific setup or installation - just lunch the *.exe file. On the start, the user is prompted to select an ATM to test (1-ATM1;2-ATM2). Once the choice is made, the driver will initialize the selected component and start executing it. User interface is very simple, the menu is re-displayed on every new action.

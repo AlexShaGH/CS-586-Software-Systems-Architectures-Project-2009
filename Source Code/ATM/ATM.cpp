@@ -1,0 +1,16 @@
+///////////////////////////////////////////////////////////
+//  ATM.cpp
+//  Implementation of the Class ATM
+//  Created on:      02-May-2009 7:38:32 PM
+//  Original author: Alex
+///////////////////////////////////////////////////////////
+#include "StdAfx.h"
+#include "ATM.h"
+
+ATM::ATM(){
+
+}
+
+ATM::~ATM(){
+
+}
